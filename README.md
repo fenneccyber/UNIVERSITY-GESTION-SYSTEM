@@ -1,7 +1,5 @@
 # 🎓 Système de Gestion Universitaire
 
-**Université Oran 1 Ahmed Ben Bella**
-
 ## 📌 Présentation
 
 Ce système est une plateforme web complète et sécurisée destinée à gérer les aspects académiques de l’Université Oran 1 Ahmed Ben Bella. Il fournit des interfaces dédiées pour les **administrateurs**, **enseignants** et **étudiants**, permettant une gestion fluide des utilisateurs, des modules et des notes.
